@@ -1,0 +1,19 @@
+<resources>
+
+    <!--Strings for Team A-->
+    <string name="app_name">Score Keeper</string>
+    <string name="TeamA">Team A</string>
+    <string name="foulsA">0</string>
+    <string name="goalsA">0</string>
+
+    <!--Strings for Team B-->
+    <string name="TeamB">Team B</string>
+    <string name="foulsB">0</string>
+    <string name="goalsB">0</string>
+
+    <!--Strings for  Buttons-->
+    <string name="reset">Reset</string>
+    <string name="ButtonGoal">Goal</string>
+    <string name="ButtonFoul">foul</string>
+
+</resources>
