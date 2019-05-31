@@ -4,10 +4,12 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="violet">#AB47BC</color>
+    <color name="violet">#d602ee</color>
     <color name="black">#000000</color>
     <color name="red">#F50057</color>
     <color name="gray">@android:color/darker_gray</color>
+    <color name="white_gray">#eceff1</color>
+    <color name="green">#087f23</color>
 
     <!--color for reset-->
     <color name="light_red">#FF1744</color>
